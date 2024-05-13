@@ -1071,7 +1071,7 @@
   version "0.1.0"
   resolved "file:vendor/symfony/ux-turbo/assets"
 
-"@symfony/webpack-encore@^4.0.0":
+"@symfony/webpack-encore@^4.6.1":
   version "4.6.1"
   resolved "https://registry.npmjs.org/@symfony/webpack-encore/-/webpack-encore-4.6.1.tgz"
   integrity sha512-JbOjy0P6P9pcbgVE3nceFnCCneRO+tbcLUkQh9rpPj/sHtFl12foSjHz6uY93ZGZGAvTyqEslie+4MlD/rUtnQ==
